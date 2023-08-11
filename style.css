@@ -1,0 +1,27 @@
+
+body{
+    border: 30rem;
+    background-color: rgb(5,166,234);
+}
+.table{
+    background-color: rgb(4,101,171);
+    color: white;
+}
+.eighteen{
+    background-color: rgb(15,53,145);
+}
+h2{
+    background-color: rgb(8,26,94);
+    color: white;
+    text-align: center;
+}
+.twenty{
+    background-color: rgb(3,7,56);
+    color:rgb(4,101,171)
+}
+button{
+    color:blanchedalmond;
+    padding:5px;
+    border-radius: 5px;
+    background-color: rgb(3,7,56);
+}
